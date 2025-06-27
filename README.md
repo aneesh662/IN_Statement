@@ -85,4 +85,4 @@ This Power BI dashboard provides an interactive monthly analysis of a company's 
 
 ---
 
-> ✉️ For queries or collaboration, feel free to reach out: [YourEmail@example.com]
+
