@@ -3,7 +3,7 @@
 ![Income Statement Dashboard](./income_statement.png)
 
 ## 📌 Project Overview
-This Power BI dashboard provides an interactive monthly analysis of a company's **Income Statement** for the year 2025. It visualizes **Revenue**, **Direct Expenses**, **Indirect Expenses**, and calculates key performance metrics such as **Gross Profit**, **Net Profit**, and **Profit Margins**. 
+This Power BI dashboard provides an interactive monthly analysis of a company's Income Statement for the year 2025. It visualizes Revenue, Direct Expenses, Indirect Expenses, and calculates key performance metrics such as Gross Profit, Net Profit, and Profit Margins. 
 
 > 🗓️ Date Completed: 2025  
 > 👨‍💼 Role: Data Analyst / Financial Analyst  
